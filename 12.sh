@@ -1,5 +1,5 @@
 #!/bin/bash
-num="2 4 6 8 10 12"
+num="2 4 6 8 10 12 22"
 for i in $num
 do
 	result=1
